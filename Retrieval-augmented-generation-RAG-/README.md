@@ -29,7 +29,7 @@ Retrieval-Augmented Generation (RAG) is a framework that enhances the performanc
 
 1. Clone the repository:
    ```bash
-    git clone https://github.com/7homasjames/Retrieval-augmented-generation-RAG-.git
+    git clone https://github.com/chandibhandari1/Retrieval-augmented-generation-RAG-.git
     ```
 
 2. Install the required packages:
